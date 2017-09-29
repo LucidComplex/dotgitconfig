@@ -10,5 +10,6 @@
 	rebase = preserve
 [core]
 	editor = vim
+	pager = less -F -X
 [push]
 	default = simple
