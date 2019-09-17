@@ -10,7 +10,7 @@
 [pull]
 	rebase = merges
 [core]
-	editor = vim
+	editor = nvim
 	pager = less -F -X
 [push]
 	default = simple
